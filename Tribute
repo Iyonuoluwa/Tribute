@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> Tribute page </title>
+    <link rel="stylesheet" href="main.css">
+   
+</head>
+
+<body>
+    <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
+<img src="blackpanther.jpg" class="center"> 
+
+
+<p class="pfont" style="text-align:center;">''You have to cherish things in a different way when you know the clock is ticking, you are under pressure''</p>
+
+<p>--<b>29 November 1976</b></p>
+        <p class = "spancolor"> --Chadwick Aaron Boseman was an American actor</p>
+        <p><b>--2000</b></p>
+        <p class = "spancolor"> --He played several historical figures</p>
+        <p><b> --2003</b></p>
+        <p class = "spancolor">--Boseman got his first television role in 2003 in an episode of Third Watch</p>
+        <p><b>--2008</b></p>
+        <p class = "spancolor"> --he played a recurring role on the television series Lincoln Heights </p>
+        <p><b>  --2010</b></p>
+        <p class = "spancolor">  --He landed a regular role in 2010 in another television series, Persons Unknown</p>
+        <p><b> --2013</b>
+            <p class = "spancolor">  --Boseman had his first starring role in the 2013 film 42, in which he portrayed baseball pioneer and star Jackie Robinson.
+    </p>
+    <p><b>  --2016</b></p>
+    <p class = "spancolor"> --he began portraying the Marvel Comics character T'Challa / Black Panther, with Captain America: Civil War being his first film in a five-picture deal with Marvel
+    </p>
+    <p><b>  --2018</b></p>
+    <p class = "spancolor">   --He headlined Black Panther in 2018 which focused on the character and his home country of Wakanda in Africa. The film opened to great anticipation, becoming one of the highest-grossing films of the year in the United States  
+    </p> 
+<head>
+<h3 style="text-align:center;"> IN A NUTSHELL (SUMMARY)</h3>
+</head>
+
+<img src="chadwick.jpg" class="center";style="width:600px;height:324px;"> 
+
+
+
+ <table style="width:100%">
+<tr>
+<th>Born</th>
+<th>Chadwick Aaron Boseman <br>
+     November 29, 1976 <br>
+    South California, United States</th>
+</tr>
+<tr>
+<th>Died</th>
+<th>28th August, 2020<br>
+    Los Angeles,Carlifornia, United States 
+</th>
+<tr>
+<th>Occupation</th>
+<th>American Actor</th>
+</tr>
+<tr>
+<th>Cause of Death</th>
+<th>Colon Cancer</th>
+</tr>
+</table> 
+</body>
+
+<p  class="pfont" style="text-align:center;">''when you are deciding on the next step <br>
+    job, career or education, look out for purpose.<br>
+     Purpose crosses all disciplines. Purpose is an essential element you should always look out for''</p>  
+
+<p>Do read more about this impeccable personality <a href="https://en.wikipedia.org/wiki/Chadwick_Boseman"> here </p>
+
+</html>
+
+                
